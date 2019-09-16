@@ -22,6 +22,12 @@ Having said all of that, I had tons of fun and learned a lot playing around with
 - [ ] Improve dev workflow so one can make real-time changes through the REPL
 - [ ] Achieve greater simplicity
 
+## Prerequisites
+1. You will need [Java](https://java.com/en/download/help/download_options.xml)
+2. And [Clojure](https://clojure.org/guides/getting_started)
+3. As well as [lein](https://leiningen.org/)
+4. (Optional) Install [Docker](https://docs.docker.com/install/) too
+
 ## Running the simulation
 
 This project uses [lein](https://leiningen.org/). Run it with:
